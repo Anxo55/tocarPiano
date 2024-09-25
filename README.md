@@ -22,6 +22,7 @@ npm install xxx
 ```
 Deploy a Github
 ```
+```
 npm run deploy
 ```
 
@@ -33,10 +34,10 @@ Se podrá tocar tambien con el teclado del ordenador.
 - [x] mostar una web con las teclas blancas sin sonido
 - [x] permitir que el usuario pulse en las teclas y suene
 - [x] añadir las teclas negras
-- [] permitir que el usuario toque el piano con las teclas del ordenador
-- [] incorporar sonidos reales
-- [] refactorizar
-- [] testear
+- [x] permitir que el usuario toque el piano con las teclas del ordenador
+- [x] incorporar sonidos reales
+- [x] refactorizar
+- [x] testear
 - [x] deployer
 
 
